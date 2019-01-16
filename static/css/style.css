@@ -1471,7 +1471,6 @@ li.pingback:first-child {
   padding-top: 3em;
   overflow: hidden;
   clear: both;
-  position: fixed;
   width: 100%;
   bottom: 0;
 }
