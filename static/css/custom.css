@@ -1475,6 +1475,9 @@ li.pingback:first-child {
   padding-top: 3em;
   overflow: hidden;
   clear: both;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 .site-footer a {
   color: #8c8c8c;
